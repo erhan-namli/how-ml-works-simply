@@ -251,7 +251,7 @@ lr.predict(deneme)
 
 Let's say there is a maze and that maze has no fork in the road, and we have a car that has 3 distance sensors. That sensors evaluate right, left, and front obstacle's distance. We can record that distances when deciding which way to turn. 
 
-<img src="roadmap.png">
+<img src="roadmap.PNG">
 
 This is a sensor that evaluates distance between car and obstacle
 

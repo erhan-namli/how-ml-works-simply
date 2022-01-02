@@ -70,19 +70,10 @@ df
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -251,7 +242,7 @@ lr.predict(deneme)
 
 Let's say there is a maze and that maze has no fork in the road, and we have a car that has 3 distance sensors. That sensors evaluate right, left, and front obstacle's distance. We can record that distances when deciding which way to turn. 
 
-<img src="roadmap.png">
+<img src="roadmap.PNG">
 
 This is a sensor that evaluates distance between car and obstacle
 
@@ -313,19 +304,7 @@ df2
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -449,19 +428,7 @@ x_train
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
